@@ -191,7 +191,7 @@ font-size: 2vw;
     width: 30vw;
     border-radius: 50%;
     position: absolute;
-    /* background-color:red; */
+ 
     filter: blur(20px);
 
     animation-name: anime1;
